@@ -29,11 +29,11 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 ## 📌 What I Learn
 
-[x] Learn how to develope a design into code.  
-[x] How to place images in proper places using positions.  
-[x] Learn some HTML standards and how to write clean code.  
-[x] Learn how to work with svg image format.  
-[x] Learn some design patterns.
+[ ] Learn how to develope a design into code.  
+[ ] How to place images in proper places using positions.  
+[ ] Learn some HTML standards and how to write clean code.  
+[ ] Learn how to work with svg image format.  
+[ ] Learn some design patterns.
 
 ## 📬 Connect With Me
 
