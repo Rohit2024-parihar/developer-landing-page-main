@@ -1,4 +1,4 @@
- ## ⭐ Developer Landing Page Project 09 ⭐
+## ⭐ Developer Landing Page Project 09 ⭐
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
@@ -29,15 +29,15 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 ## 📌 What I Learn
 
-[ ] Learn how to develope a design into code.  
-[ ] How to place images in proper places using positions.  
-[ ] Learn some HTML standards and how to write clean code.  
-[ ] Learn how to work with svg image format.  
-[ ] Learn some design patterns.
+👉 Learn how to develope a design into code.  
+👉 How to place images in proper places using positions.  
+👉 Learn some HTML standards and how to write clean code.  
+👉 Learn how to work with svg image format.  
+👉 Learn some design patterns.
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Rohit Parihar](https://www.linkedin.com/in/rohit-parihar-3a4b1b1aa/)
+- **LinkedIn** - [Rohit Parihar](https://www.linkedin.com/in/prakash-naikwadi/)
 
 
 ## 📌 Acknowledgments
